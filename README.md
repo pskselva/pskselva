@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Selva
+- 👀 I’m interested to play with data!
+- 🌱 I’m currently learning R programme and am newbee to R.
+- 📫 You can reach me @selvakumarprasad@gmail.com
